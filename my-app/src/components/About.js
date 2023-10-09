@@ -5,8 +5,9 @@ const About = () => {
     <section className={classes.wrapper}>
       <h1 className={classes.title}>Cześć! Mam na imię Adam.</h1>
       <h3 className={classes.subtitle}>
-        Jestem inżynierem o zmysle projektowym i skupionym na szczegółach, który
-        pasjonuje się połączeniem pięknego kodu z pięknym projektem.
+        Jestem Fronend Developerem o zmysle projektowym i skupionym na
+        szczegółach, który pasjonuje się połączeniem pięknego kodu z pięknym
+        projektem.
       </h3>
       <div className={classes.separator}></div>
       <img src="../Images/DesktopBg.png" alt="MyPhoto" className={classes.me} />

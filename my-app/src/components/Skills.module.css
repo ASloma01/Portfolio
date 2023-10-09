@@ -1,0 +1,41 @@
+.wrapper {
+  padding: 50px 25px;
+  background: #1b1b1b;
+  color: #f6f8f9;
+}
+.title {
+  font-family: "PT Serif", serif;
+  font-size: 3em;
+}
+.separator {
+  width: 40%;
+  height: 1px;
+  background-color: #07922a;
+  margin: 1.5em 0;
+}
+.wrapper i {
+  margin-left: 3px;
+}
+.wrapper ul {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.wrapper h3 {
+  margin-left: 2em;
+  font-size: 500;
+  margin-bottom: 1em;
+}
+.wrapper li {
+  display: block;
+  height: 80px;
+  width: 80px;
+  background-color: black;
+  border-radius: 50%;
+  line-height: 80px;
+  text-align: center;
+  font-size: 13px;
+  border: 1px solid rgb(95, 95, 95);
+  margin: 6px;
+}
