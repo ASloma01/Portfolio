@@ -1,5 +1,5 @@
 # Portfolio site
 
-https://portfolio-c56ea.web.app/
+⚠️ Projekt archiwalny – stworzony na początku nauki
 
 Simple portfolio made with React.js - 2023
